@@ -9,9 +9,6 @@ Jump to dodge is a 3d game where players have to dodge incoming obstacles by jum
 - 🎮 **Addictive Gameplay**: Simple controls with challenging levels.
 - 📈 **Leaderboard**: Compete with your high scores.
 
-## Installation
-will be available soon
-
 ## How to Play
 Tap anywhere in the screen to start and tap anywhere to jump
 
